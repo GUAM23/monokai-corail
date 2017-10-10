@@ -1,7 +1,3 @@
 # monokai-corail
 
-https://raw.githubusercontent.com/GUAM23/monokai-corail/master/screenshot_mc_html.png
-
-https://raw.githubusercontent.com/GUAM23/monokai-corail/master/screenshot_mc_javascript.png
-
-https://raw.githubusercontent.com/GUAM23/monokai-corail/master/screenshot_mc_php.png
+file:///F:/1%20disque%20D/1%20Informatique/2%20Editeurs%20de%20texte/Brackets/themes/monokai%20corail%20octobre%202017/monokai-corail/screenshots_mc/screenshot_mc_html.png
