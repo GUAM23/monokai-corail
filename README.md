@@ -1,5 +1,4 @@
-HTML/CSS "#1589F0"
-
+###HTML/CSS 
 ![screenshot_mc_html](https://user-images.githubusercontent.com/27980534/31412143-4300cd0c-ae14-11e7-8daa-f05fdb20c55e.png)
 JAVASCRIPT
 ![screenshot_mc_javascript](https://user-images.githubusercontent.com/27980534/31412164-61d0405a-ae14-11e7-940c-6962059a1047.png)
