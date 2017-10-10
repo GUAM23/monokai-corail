@@ -1,3 +1,3 @@
-# monokai-corail
-
-file:///F:/1%20disque%20D/1%20Informatique/2%20Editeurs%20de%20texte/Brackets/themes/monokai%20corail%20octobre%202017/monokai-corail/screenshots_mc/screenshot_mc_html.png
+![screenshot_mc_html](https://user-images.githubusercontent.com/27980534/31412143-4300cd0c-ae14-11e7-8daa-f05fdb20c55e.png)
+![screenshot_mc_javascript](https://user-images.githubusercontent.com/27980534/31412164-61d0405a-ae14-11e7-940c-6962059a1047.png)
+![screenshot_mc_php](https://user-images.githubusercontent.com/27980534/31412169-651a0caa-ae14-11e7-9c97-5d42ae6fd857.png)
