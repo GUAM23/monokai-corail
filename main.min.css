@@ -1,5 +1,5 @@
 .cm-bracket {
-    color: #F92672
+    color: #E80487
 }
 
 .cm-keyword {
@@ -7,7 +7,7 @@
 }
 
 .cm-tag {
-    color: #F92672
+    color: #E80487
 }
 
 .cm-atom,
@@ -17,7 +17,7 @@
 }
 
 .cm-operator {
-    color: #F92672
+    color: #E80487
 }
 
 .cm-variable {
@@ -62,7 +62,7 @@
 }
 
 .cm-error {
-    background: #F92672;
+    background: #E80487;
     color: #F8F8F2!important
 }
 
@@ -74,7 +74,7 @@
 }
 
 .CodeMirror-gutters {
-    background: #151515
+    background: #121212
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
@@ -84,7 +84,7 @@
 }
 
 .CodeMirror-linenumber {
-    color: #808080
+    color: #909090
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
@@ -113,7 +113,7 @@
 }
 
 .CodeMirror-nonmatchingbracket {
-    background: #F92672!important;
+    background: #E80487!important;
     color: #F8F8F2!important
 }
 
@@ -138,7 +138,7 @@
     content: "-";
     font-size: 1.3em;
     font-weight: 700;
-    color: #808080
+    color: #aaa
 }
 
 .CodeMirror-foldgutter-folded:after {
